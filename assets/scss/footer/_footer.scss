@@ -1,0 +1,13 @@
+@use "../utils/colors" as color;
+
+.attribution {
+  width: 90%;
+  margin-top: 2rem;
+  text-align: center;
+  line-height: 1.5;
+  color: color.$Light-Cyan;
+
+  a {
+    color: color.$Grayish-Blue;
+  }
+}
