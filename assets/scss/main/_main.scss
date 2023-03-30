@@ -13,7 +13,8 @@ main {
 
     .advice__id {
       color: color.$Neon-Green;
-      font-size: 1rem;
+      font-size: 0.8rem;
+      letter-spacing: 0.3rem;
     }
 
     .advice__quote {
@@ -39,6 +40,24 @@ main {
         display: block;
         margin: 0 auto;
       }
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  main {
+    display: flex;
+    justify-content: center;
+    .card {
+      width: 50%;
+    }
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  main {
+    .card {
+      width: 30%;
     }
   }
 }
