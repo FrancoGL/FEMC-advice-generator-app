@@ -16,16 +16,16 @@ Users should be able to:
 
 #### Mobile
 
-<img src="#" width="300px">
+<img src="https://user-images.githubusercontent.com/66887467/229364172-c649f36d-68f2-4b8f-838f-1097898fdfdc.png" width="300px">
 
 ### Desktop
 
-<img src="#" width="400px">
+<img src="https://user-images.githubusercontent.com/66887467/229364118-485084ad-fee1-4335-800e-6b95f92f6f0d.png" width="400px">
 
 ### Links
 
 - Solution URL: [Frontend Mentor](#)
-- Live Site URL: [Live site with GitHub pages]()
+- Live Site URL: [Live site with GitHub pages](https://francogl.github.io/FEMC-advice-generator-app/)
 
 ### Built with
 
